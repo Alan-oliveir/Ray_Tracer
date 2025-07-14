@@ -52,16 +52,14 @@ CARACTERÍSTICAS TÉCNICAS:
 - Algoritmo: Ray tracing backward (da câmera para a cena)
 - Intersecção com torus: Resolve equação quártica usando método de Ferrari
 - Anti-aliasing: Pode ser adicionado facilmente
-
----
+#
 **Baseado no material da Aula 14 - Ray Tracing**  
 **Disciplina**: CPS751 - Computação Gráfica  
 **Observação**: O código foi desenvolvido em Python para fins acadêmicos, utilizando bibliotecas como Pillow e NumPy 
 para manipulação de imagens e cálculos matemáticos. A implementação é didática e visa demonstrar os conceitos de ray 
 tracing, interseção de objetos e iluminação. Para aplicacações mais complexas, recomenda-se o uso de linguagens de baixo
 nível como C++ ou Rust para maior performance.
-
----
+#
 ## Aluno
 
 **Alan Gonçalves**  
