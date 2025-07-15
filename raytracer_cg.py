@@ -683,7 +683,7 @@ def main():
     print("- Transparência/refração")
     print("\nCenas geradas:")
     for filename, description, _ in scenes:
-        print(f"  ✓ {filename} - {description}")
+        print(f"{filename} - {description}")
     print("\nVerifique as imagens geradas!")
 
 

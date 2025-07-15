@@ -60,6 +60,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Pycharm
+.idea/
+
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
 
